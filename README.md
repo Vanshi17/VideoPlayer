@@ -11,7 +11,6 @@ Hi, I'm **Vanshika Gupta**, an **Android & React Native Developer** passionate a
 This project is a showcase of my UI/UX design and development skills — built using:
 
 - React Native  
-- Material Top Tabs  
 - Custom Scroll + Sticky Header  
 - Responsive layouts for all devices 📱💻  
 
@@ -42,7 +41,6 @@ This project is a showcase of my UI/UX design and development skills — built u
 - Profile tags and captions  
 
 ✅ **About Section**
-- Interactive links (GitHub, LinkedIn, Portfolio)  
 - Action buttons for Contact & Portfolio  
 
 ✅ **Fully Responsive**
