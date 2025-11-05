@@ -55,7 +55,6 @@ This project is a showcase of my UI/UX design and development skills — built u
 | Tech | Purpose |
 |------|----------|
 | **React Native** | Core mobile framework |
-| **React Navigation (Material Top Tabs)** | Smooth tab transitions |
 | **react-native-video** | Video playback |
 | **useWindowDimensions()** | Responsive design |
 | **Custom Components** | Header, PostGrid, VideoGrid, etc. |
